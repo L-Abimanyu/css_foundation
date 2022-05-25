@@ -1,0 +1,58 @@
+.first{
+    display: inline-block;
+    background-color:yellow;
+    width: 25%;
+    border:5px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.second{
+
+    display: inline-block;
+    background-color: green;
+    width:25%;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+.third{
+    display: inline-block;
+    background-color: blue;
+    width:25%;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.big{
+    background-color: blue;
+    width:90%;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.fourth,.fifth,.sixth{
+    display: inline-block;
+    width:25%;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px;
+
+}
+.fourth{
+    background-color:aqua;
+}
+
+.fifth{
+    background-color:darkorange;
+
+}
+
+.sixth{
+    background-color:brown;
+}
